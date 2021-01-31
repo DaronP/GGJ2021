@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Materiales.meta
+    - Assets/Materiales/1.mat
+    - Assets/Materiales/1.mat.meta
+    - Assets/Materiales/2.mat
+    - Assets/Materiales/2.mat.meta
+    - Assets/Materiales/3.mat
+    - Assets/Materiales/3.mat.meta
+    - Assets/Materiales/Piso.mat
+    - Assets/Materiales/Piso.mat.meta
+    - Assets/Prefabs.meta
+    - Assets/Prefabs/Pared1.prefab
+    - Assets/Prefabs/Pared1.prefab.meta
+    - Assets/Prefabs/Pared2.prefab
+    - Assets/Prefabs/Pared2.prefab.meta
+    - Assets/Prefabs/Pared3.prefab
+    - Assets/Prefabs/Pared3.prefab.meta
+    - Assets/Prefabs/Piso.prefab
+    - Assets/Prefabs/Piso.prefab.meta
+    - Assets/Prefabs/Room_^_.prefab
+    - Assets/Prefabs/Room_^_.prefab.meta
+    - Assets/Prefabs/Room_^v_.prefab
+    - Assets/Prefabs/Room_^v_.prefab.meta
+    - Assets/Prefabs/Room__.prefab
+    - Assets/Prefabs/Room__.prefab.meta
+    - Assets/Prefabs/Room_v_.prefab
+    - Assets/Prefabs/Room_v_.prefab.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scripts.meta
+    - Assets/Scripts/LvlGen.cs
+    - Assets/Scripts/LvlGen.cs.meta
+    - Assets/Scripts/OtrosRooms.cs
+    - Assets/Scripts/OtrosRooms.cs.meta
+    - Assets/Scripts/PropSpawn.cs
+    - Assets/Scripts/PropSpawn.cs.meta
+    - Assets/Scripts/RoomType.cs
+    - Assets/Scripts/RoomType.cs.meta
+    - Assets/Scripts/Spawn.cs
+    - Assets/Scripts/Spawn.cs.meta
+    - ProjectSettings/TagManager.asset
+    - 
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
